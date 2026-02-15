@@ -1,54 +1,46 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Houda!;" />
+  Hi 👋, I'm Mohammad Houda
 </h1>
 
-<h3 align="center">A passionate Front End developer from Lebanon</h3>
+<h3 align="center">Full-Stack Software Developer | Backend-Focused</h3>
 
 <br/>
 
 <div align="center">
- 
- 
- 🌱 I’m currently learning **React, Tailwind, Jest**
- 
 
-⚡ Fun fact I can spend hours debating the best indentation style for code with my fellow developers. Tabs vs. spaces, anyone ?
+🚀 Backend-focused developer building scalable web applications  
 
- </div>
- 
+💻 Experienced in **PHP, OpenCart, Node.js, Express, PostgreSQL**  
+
+⚛️ Frontend with **Next.js, React, TypeScript, Tailwind CSS**  
+
+🌍 Passionate about building production-ready systems and improving performance  
+
+</div>
+
+<br/>
+
 <div align="center"> 
   <a href="mailto:muhamad.houda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/mohammad-houda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java" /><br>
+  <img src="https://skillicons.dev/icons?i=php,react,nextjs,typescript,nodejs,express,postgres,tailwind,js,java,git,github,vscode" />
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
- 
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <i>“I don’t just write code — I build systems.”</i>
 </div>
-
-<hr/>
-
-
-</div>
-
-<br/><br/>
-
