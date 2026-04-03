@@ -150,8 +150,8 @@ AI-powered sales assistant for Lebanese Instagram & WhatsApp fashion boutiques. 
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad-houda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-houda&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&dates=8B949E" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadhouda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohammadhouda&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&dates=8B949E" height="165" />
 
 </div>
 
