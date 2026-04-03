@@ -15,7 +15,7 @@
 
 I'm a **backend-focused full-stack engineer** based in **Lebanon**, studying Computer Science at **Arab Open University**. I don't just write code — I architect systems that scale.
 
-- 🏗️ Currently building **[Hope Link](https://github.com/mohammad-houda)** — a humanitarian NGO platform with a full admin panel, audit logging, and full-text search powered by PostgreSQL
+- 🏗️ Currently building **[Hope Link](https://github.com/mohammadhouda)** — a humanitarian NGO platform with a full admin panel, audit logging, and full-text search powered by PostgreSQL
 - ☁️ **AWS Cloud Practitioner** certified with hands-on Azure deployment experience
 - 🔍 Obsessed with query optimization, caching strategies, and building production-ready APIs
 - 📬 Reach me at **muhamad.houda@gmail.com**
@@ -169,13 +169,13 @@ AI-powered sales assistant for Lebanese Instagram & WhatsApp fashion boutiques. 
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" />
 </a>
 &nbsp;
-<a href="https://github.com/mohammad-houda" target="_blank">
+<a href="https://github.com/mohammadhouda" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mohammad-houda&style=flat-square&color=1f6feb&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=mohammadhouda&style=flat-square&color=1f6feb&label=Profile+Views" />
 
 <br/><br/>
 
