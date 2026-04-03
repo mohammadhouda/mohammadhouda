@@ -15,7 +15,7 @@
 
 I'm a **backend-focused full-stack engineer** based in **Lebanon**, studying Computer Science at **Arab Open University**. I don't just write code — I architect systems that scale.
 
-- 🏗️ Currently building **[Hope Link](https://github.com/mohammadhouda)** — a humanitarian NGO platform with a full admin panel, audit logging, and full-text search powered by PostgreSQL
+- 🏗️ Currently building **[Hope Link](https://github.com/mohammadhouda/admin-backend)** — a humanitarian NGO platform with a full admin panel, audit logging, and full-text search powered by PostgreSQL
 - ☁️ **AWS Cloud Practitioner** certified with hands-on Azure deployment experience
 - 🔍 Obsessed with query optimization, caching strategies, and building production-ready APIs
 - 📬 Reach me at **muhamad.houda@gmail.com**
