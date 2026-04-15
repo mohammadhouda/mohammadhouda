@@ -11,7 +11,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a **backend-focused full-stack engineer** based in **Lebanon**, studying Computer Science at **Arab Open University**. I don't just write code — I architect systems that scale.
 
@@ -23,7 +23,7 @@ I'm a **backend-focused full-stack engineer** based in **Lebanon**, studying Com
 </td>
 <td width="50%" valign="top">
 
-### 🏆 Highlights
+### Highlights
 
 ```text
 🔧 Built a Price Scanner system serving
@@ -103,7 +103,7 @@ Prisma · Git · GitHub · VS Code
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 </div>
 
@@ -148,7 +148,7 @@ AI-powered sales assistant for Lebanese Instagram & WhatsApp fashion boutiques. 
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohammadhouda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammadhouda&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=8B949E&dates=8B949E" height="165" />
@@ -159,7 +159,7 @@ AI-powered sales assistant for Lebanese Instagram & WhatsApp fashion boutiques. 
 
 <div align="center">
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <a href="mailto:muhamad.houda@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
