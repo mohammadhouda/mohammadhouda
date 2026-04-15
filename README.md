@@ -52,7 +52,7 @@ I'm a **backend-focused full-stack engineer** based in **Lebanon**, studying Com
 
 <div align="center">
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 </div>
 
