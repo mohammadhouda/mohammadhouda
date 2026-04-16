@@ -127,13 +127,13 @@ A full-stack platform connecting NGOs with communities in need. Features a compr
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛍️ SoukAI</h3>
+<h3 align="center">🏥 ClinicAI</h3>
 
-<p align="center"><i>WhatsApp AI Sales Automation</i></p>
+<p align="center"><i>WhatsApp AI Assistant for Clinics</i></p>
 
-AI-powered sales assistant for Lebanese Instagram & WhatsApp fashion boutiques. Features per-store AI learning loops, DB-first architecture to prevent hallucination, and volume-based subscription tiers.
+An AI-powered WhatsApp assistant for aesthetic and dental clinics in Lebanon. Automates appointment booking, answers FAQs, and handles patient inquiries 24/7 — so clinics never lose a patient to a missed message.
 
-**Stack:** `Node.js` `Fastify` `PostgreSQL` `pgvector` `Redis` `Turborepo`
+**Stack:** `Node.js` `Fastify` `PostgreSQL` `Redis` `WhatsApp Business API` `Turborepo`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In_Development-1f6feb?style=flat-square" />
