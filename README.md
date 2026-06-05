@@ -13,9 +13,9 @@
 
 ### About Me
 
-I'm a **backend-focused full-stack engineer** based in **Lebanon**, studying Computer Science at **Arab Open University**. I don't just write code — I architect systems that scale.
+I'm a **backend-focused full-stack engineer** based in **Lebanon**, studying Computer Science at **Arab Open University**. I don't just write code I architect systems that scale.
 
-- 🏗️ Currently building **[Hope Link](https://github.com/mohammadhouda/admin-backend)** — a humanitarian NGO platform with a full admin panel, audit logging, and full-text search powered by PostgreSQL
+- 🏗️ Currently building **[Hope Link](https://github.com/mohammadhouda/admin-backend)** a humanitarian NGO platform with a full admin panel, audit logging, and full-text search powered by PostgreSQL
 - ☁️ **AWS Cloud Practitioner** certified with hands-on Azure deployment experience
 - 🔍 Obsessed with query optimization, caching strategies, and building production-ready APIs
 - 📬 Reach me at **muhamad.houda@gmail.com**
@@ -131,7 +131,7 @@ A full-stack platform connecting NGOs with communities in need. Features a compr
 
 <p align="center"><i>WhatsApp AI Assistant for Clinics</i></p>
 
-An AI-powered WhatsApp assistant for aesthetic and dental clinics in Lebanon. Automates appointment booking, answers FAQs, and handles patient inquiries 24/7 — so clinics never lose a patient to a missed message.
+An AI-powered WhatsApp assistant for aesthetic and dental clinics in Lebanon. Automates appointment booking, answers FAQs, and handles patient inquiries 24/7 so clinics never lose a patient to a missed message.
 
 **Stack:** `Node.js` `Fastify` `PostgreSQL` `Redis` `WhatsApp Business API` `Turborepo`
 
@@ -180,7 +180,7 @@ An AI-powered WhatsApp assistant for aesthetic and dental clinics in Lebanon. Au
 <br/><br/>
 
 ```
-"I don't just write code — I build systems that scale."
+"I don't just write code I build systems that scale."
 ```
 
 </div>
